@@ -4,7 +4,7 @@ import initialEmails, { Email } from "./data/emails";
 
 import "./App.css";
 
-import Header from "./components/header";
+import Header from "./components/Header";
 import Nav from "./components/Nav";
 import Emails from "./components/Emails";
 
